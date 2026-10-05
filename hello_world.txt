@@ -1,1 +1,2 @@
 // This Readme is par of the Odin tutorial - we'll be working through things using this initial project
+// This project will be for learning full stack development using theodinproject.org
